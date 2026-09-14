@@ -3,7 +3,7 @@
 <h1 align="center">What's Up? I'm Alex 👋</h1>
 <h3 align="center">Physics & CS @ Washington & Lee University · GPA 3.93<h3>
 <p align="center">
-  <a href="www.linkedin.com/in/alexander-bousman-58a748213"><img src="https://img.shields.io/badge/LinkedIn-alexanderbousman-blue"/></a>
+  <a href="https://www.linkedin.com/in/alexander-bousman"><img src="https://img.shields.io/badge/LinkedIn-alexanderbousman-blue"/></a>
   <!-- <a href="https://abidjeem.com"><img src="https://img.shields.io/badge/Portfolio-abidjeem.com-000000?style=flat&logo=vercel" /></a> -->
   <a href="mailto:bousmanalexander@gmail.com"><img src="https://img.shields.io/badge/Email-bousmanalexander%40gmail.com-test?logo=gmail&color=red" /></a>
 </p>
