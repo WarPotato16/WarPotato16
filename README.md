@@ -35,7 +35,7 @@ I’m always interested in new research questions, technical challenges, and opp
 - *To be presented at the NetMob 2026 conference. Manuscript to be published in the NetMob 2026 Book of Abstracts* 
 ---
 
-### ⚡[Model for Grover's Algorithm](https://github.com/WarPotato16/Grovers-Algorithm)
+### ⚡[Simulating Grover's Algorithm](https://github.com/WarPotato16/Grovers-Algorithm)
 
 - Programmed visualizations for foundational concepts in quantum information processing, including superposition, quantum random walks, and quantum gates
 - Modeled Grover's algorithm in Jupyter Notebooks with Qiskit, illustrating its iterative linear transformation and amplitude amplification process
