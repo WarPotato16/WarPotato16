@@ -45,7 +45,8 @@ I’m always interested in new research questions, technical challenges, and opp
 
 ### 🧮 [Graphing Calculator](https://github.com/WarPotato16/Graphing-Calculator)
 
-- Built a fully-functioning graphing calculator
+- Built a fully-functioning graphing calculator with standard arithmetic operations, trigonometry, and other special functions to generate solutions and graphs for equations
+- Plots one or several functions of 'x' simultaneously, with an editable graphing window, expression history, and accurate floating-point graph sampling
 
 ---
 
