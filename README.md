@@ -23,7 +23,7 @@ I’m always interested in new research questions, technical challenges, and opp
 - Developed a continuous-time quantum Monte Carlo algorithm for few fermions confined by a three-dimensional harmonic potential
 - Mapped lattice-site occupation probabilities and modeled the spatial distribution of particles around the trap center
 - Parallelized tens of millions of Monte Carlo sweeps on the Jetstream2 cloud computing environment and aggregated energy, acceptance-rate, occupation, and fermionic-sign measurements across independent chains
-- *To be presented at the American Physical Society (APS) Conference Experience for Undergraduates (CEU)*
+- Presented at the American Physical Society (APS) Conference Experience for Undergraduates (CEU) 2026 in Philadelphia, PA, USA.
 
 ---
 
@@ -32,7 +32,7 @@ I’m always interested in new research questions, technical challenges, and opp
 - Developed a GPS-based Python framework to distinguish traffic-related congestion from bus-operational activity in Niterói, Brazil for the NetMob26 Data Challenge
 - Used map-matched trajectories, rolling speed estimates, General Transit Feed Specification (GTFS) stop and terminal context, route information, and spatiotemporal clustering for congestion classification
 - Integrated OpenStreetMap road-network data and Instituto Brasileiro de Geografia e Estatística (IBGE) geospatial data with GeoPandas to analyze and visualize traffic conditions across Niterói's 52 bairros from March 11-31, 2026
-- *To be presented at the NetMob 2026 conference. Manuscript to be published in the NetMob 2026 Book of Abstracts* 
+- Presented at the NetMob 2026 Conference in Niteroí, Rio de Janeiro, Brazil. *Manuscript to be published in the NetMob 2026 Book of Abstracts* 
 ---
 
 ### ⚡[Simulating Grover's Algorithm](https://github.com/WarPotato16/Grovers-Algorithm)
