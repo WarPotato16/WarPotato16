@@ -56,7 +56,7 @@ I’m always interested in new research questions, technical challenges, and opp
 
 ## Current Work
 
-I'm continuing my work in computational many-body physics while preparing to present at the American Physical Society (APS) Conference Experience for Undergraduates (CEU) for my [few body QMC](https://github.com/WarPotato16/Few-Body-QMC) research project, and the NetMob 2026 Conference in Rio de Janeiro, Brazil for my [congestion detection framework](https://github.com/WarPotato16/Congestion-Detection-Framework). In the meantime, I'm a full-time university student at Washington and Lee University, studying the following topics of interest for this Fall 2026 term:
+As of now, I've relaxed my research endeavors and returned to a full-time university courseload at Washington and Lee University, studying the following topics of interest for this Fall 2026 term:
  - CSCI 3100 - Theory of Computation
  - MATH 3100 - Abstract Algebra
  - PHYS 3400 - Quantum Mechanics
