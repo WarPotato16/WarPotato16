@@ -18,9 +18,9 @@ I’m always interested in new research questions, technical challenges, and opp
 
 ## Past Projects
 
-### ⚛️ [Quantum Monte Carlo (QMC) Simulator](https://github.com/WarPotato16/Few-Body-QMC)
+### ⚛️ [Continuous-Time Worm Quantum Monte Carlo (QMC)](https://github.com/WarPotato16/Few-Body-QMC)
 
-- Developed a continuous-time quantum Monte Carlo algorithm for few fermions confined by a three-dimensional harmonic potential
+- Developed a continuous-time worm quantum Monte Carlo algorithm for few fermions confined by a three-dimensional harmonic potential
 - Mapped lattice-site occupation probabilities and modeled the spatial distribution of particles around the trap center
 - Parallelized tens of millions of Monte Carlo sweeps on the Jetstream2 cloud computing environment and aggregated energy, acceptance-rate, occupation, and fermionic-sign measurements across independent chains
 - Presented at the American Physical Society (APS) Conference Experience for Undergraduates (CEU) 2026 in Philadelphia, PA, USA.
